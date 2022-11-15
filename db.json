@@ -1,0 +1,94 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "title": "Black T-shirt",
+      "price": "20000",
+      "description": "Black T-shirt.",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/T-shirt1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Adidas School bag",
+      "price": "2000",
+      "description": "Adidas special additon school bag available with discount. Premimum quality and 100% ployster. This bag will provide a longterm service. Exported from nike offical distributor.",
+      "category": "Bag",
+      "quantity": 20,
+      "imageSource": "/product_image/Adidas bag.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Asus laptop",
+      "price": "10000",
+      "description": "Asus W602D 25 inch LED monitor has HD ready 1366 x 768 TV resolution, YouTube, Wi-Fi, TV screen mirroring, 24p true cinema, advanced contrast enhancer, MotionFlow XR 240, X-reality pro, 2 USB and 2 HDMI.",
+      "category": "Electronics",
+      "quantity": 20,
+      "imageSource": "/product_image/laptop.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Shirt",
+      "price": "1800",
+      "description": "Premium fitted crew neck shirt.Provides moisture wicking, odor control, quick dry and anti-microbial finish for maximum comfort.UPF 30 blocks 97% of UV rays 96% polyester/4% spandex",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/shirt.jpg"
+    },
+    {
+      "id": 5,
+      "title": "White T-shirt",
+      "price": "500",
+      "description": "White T-shirt",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/T-shirt2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Blue Shirt",
+      "price": "1000",
+      "description": "Premium fitted crew neck shirt.Provides moisture wicking, odor control, quick dry and anti-microbial finish for maximum comfort.UPF 30 blocks 97% of UV rays 96% polyester/4% spandex",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/BlueShirt.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Water Bottle",
+      "price": "500",
+      "description": "A water bottle is a container that is used to hold liquids, chiefly water, for the purpose of transporting a drink with oneself while travelling or while otherwise away from a supply of potable water.",
+      "category": "Daily Goods",
+      "quantity": 20,
+      "imageSource": "/product_image/water bottle.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Jeans",
+      "price": "2000",
+      "description": "A jeans is a garment for the upper body, usually extending below the hips. A jacket typically has sleeves, and fastens in the front or slightly on the side. A jacket is generally lighter, tighter-fitting, and less insulating than a coat, which is outerwear",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/jeans.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Jacket",
+      "price": "3000",
+      "description": "A jacket is a garment for the upper body, usually extending below the hips. A jacket typically has sleeves, and fastens in the front or slightly on the side. A jacket is generally lighter, tighter-fitting, and less insulating than a coat, which is outerwear",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/jacket.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Trouser",
+      "price": "600",
+      "description": "trousers, also spelled trowsers, also called pants or slacks, an outer garment covering the lower half of the body from the waist to the ankles and divided into sections to cover each leg separately.",
+      "category": "Clothes",
+      "quantity": 20,
+      "imageSource": "/product_image/trouser.jpg"
+    }
+  ]
+}

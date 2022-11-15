@@ -1,0 +1,29 @@
+{
+  "name": "assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "next": "^12.3.2-canary.16",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "reactstrap": "^9.1.4",
+    "sharp": "^0.31.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-next": "12.3.1"
+  },
+  "resolutions": {
+    "terser": "3.14.1"
+  }
+}
